@@ -2,8 +2,9 @@
  * Styles for the base elements of the theme.
  ******************************************************************************/
 
+// **********************************
 // Typography
-
+// **********************************
 p, h1, h2, h3, h4, h5, h6, em, div, span, strong {
   color: var(--global-text-color);
 }
@@ -23,15 +24,17 @@ a, table.table a {
   }
 }
 
+// **********************************
 // Math
-
+// **********************************
 .equation {
   margin-bottom: 1rem;
   text-align: center;
 }
 
+// **********************************
 // Caption
-
+// **********************************
 .caption {
   font-size: 0.875rem;
   margin-top: 0.75rem;
@@ -39,13 +42,16 @@ a, table.table a {
   text-align: center;
 }
 
+// **********************************
 // Citation
+// **********************************
 .citation, .citation-number {
   color: var(--global-theme-color);
 }
 
+// **********************************
 // Profile
-
+// **********************************
 .profile {
   margin-left: 1rem;
   width: 100%;
@@ -83,9 +89,9 @@ a, table.table a {
   }
 }
 
-
+// **********************************
 // Navbar customization
-
+// **********************************
 .navbar {
   box-shadow: none;
   border-bottom: 1px solid $grey-color-light;
@@ -168,9 +174,9 @@ a, table.table a {
   }
 }
 
-
+// **********************************
 // News
-
+// **********************************
 .news table td {
   font-size: 1rem;
   color: var(--global-text-color);
@@ -180,15 +186,16 @@ a, table.table a {
   color: var(--global-text-color);
 }
 
+// **********************************
 // Social (bottom)
-
+// **********************************
 .social {
   text-align: center;
   .contact-icons {
-    font-size: 4rem;
+    font-size: 3rem;
     a {
       i::before {
-        color: var(--global-text-color);
+        color: var(--global-text-color-light);
         -webkit-transition: all 0.2s ease-in-out;
       }
       &:hover {
@@ -203,8 +210,9 @@ a, table.table a {
   }
 }
 
-
+// **********************************
 // Footer
+// **********************************
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
   font-size: 0.75rem;
@@ -229,9 +237,9 @@ footer.sticky-bottom {
   font-size: 0.9rem;
 }
 
-
+// **********************************
 // Blog
-
+// **********************************
 .header-bar {
   border-bottom: 1px solid $grey-color-light;
   text-align: center;
@@ -285,9 +293,9 @@ footer.sticky-bottom {
   }
 }
 
-
+// **********************************
 // Distill
-
+// **********************************
 .distill {
   a:hover {
     border-bottom-color: var(--global-theme-color);
@@ -295,9 +303,9 @@ footer.sticky-bottom {
   }
 }
 
-
+// **********************************
 // Projects
-
+// **********************************
 .projects {
   a {
     text-decoration: none;
@@ -343,9 +351,9 @@ footer.sticky-bottom {
   }
 }
 
-
+// **********************************
 // Publications
-
+// **********************************
 .publications {
   margin-top: 2rem;
   h1 {
@@ -465,7 +473,9 @@ footer.sticky-bottom {
   }
 }
 
+// **********************************
 // Rouge Color Customization
+// **********************************
 figure.highlight {
   margin: 0 0 1rem;
 }
@@ -489,8 +499,9 @@ code {
   padding: 3px 3px;
 }
 
-
+// **********************************
 // Transitioning Themes
+// **********************************
 html.transition,
 html.transition *,
 html.transition *:before,

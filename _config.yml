@@ -21,7 +21,7 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 # -----------------------------------------------------------------------------
 
 navbar_fixed: true
-footer_fixed: false
+footer_fixed: true
 
 # Dimensions
 max_width: 800px
@@ -39,7 +39,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: zhangchenbocalvin  # your GitHub user name
+github_username: zhangchenbocalvin # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: chen-bo-calvin-zhang # your LinkedIn user name
@@ -54,7 +54,8 @@ work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 
-contact_note: >  # You can even add a little note about which of these is the best way to reach you.
+contact_note: >
+  Please reach out to me either by email or on LinkedIn.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
@@ -63,8 +64,8 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Calvin's Blog  # your blog must have a name for it to show up in the nav bar
-blog_description:
+blog_name: Bits & Pieces  # your blog must have a name for it to show up in the nav bar
+blog_description: Work in progress...
 permalink: /blog/:year/:title/
 
 # Pagination
