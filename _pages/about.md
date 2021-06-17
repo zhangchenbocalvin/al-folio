@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: 
+description: MSc Data Science &cir; Department of Computer Science &cir; ETH Zurich
 
 profile:
   align: right
@@ -14,10 +14,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am student at *ETH Zurich* pursuing an *MSc in Data Science* in the Department of Computer Science, with a focus on machine learning and statistics. I am currently also working as a software developmer and machine learning researcher at *Aios*, an early-stage startup which aims to implement a new EdTech platform to construct a better education for future generations.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before my masters, in June 2021, I completed a *BSc (Honours) in Computer Science and Mathematics* at the *University of Manchester*, in the UK, achieving a first class degree. I completed my final project on *"Adversarial Attacks on Reinforcement Learning Agents for Atari Games"* under the supervision of Dr. *Tingting Mu*.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+During my undergraduate degree, in the summer of 2019, I had the opportunity to work as a software engineer at *Axyon AI*, a FinTech startup which employs deep learning solutions for asset management. In the summer of 2020, I worked under the supervision Dr. *Tingting Mu* and Dr. *Christoforos Moutafis* as a undergraduate research student to investigate the use of machine learning techniques to analyze the bahavior of quasi-particles called skyrmions. 
 
 ---

@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Calvin Zhang # the website title (if blank, full name will be used instead)
+title: Calvin Zhang (张晨博) # the website title (if blank, full name will be used instead)
 first_name: Calvin
 middle_name: 
 last_name: Zhang
@@ -10,7 +10,7 @@ email: chenbocalvinzhang@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: > 
 
-icon: 🔥 # the emoji used as the favicon
+icon: 🔹 # the emoji used as the favicon
 url:  # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
